@@ -1,0 +1,6 @@
+php app
+xampp(install run)
+MySQL db create with application
+datadog agent install(infra)
+dd trace installer for apm 
+
